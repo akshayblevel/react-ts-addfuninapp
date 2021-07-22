@@ -1,4 +1,4 @@
-# react-ts-g4zbqd
+# react-ts-addfuninapp
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-g4zbqd)
 
