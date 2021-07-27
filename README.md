@@ -1,7 +1,5 @@
 # react-ts-addfuninapp
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-g4zbqd)
-
 ```js
 import React from 'react';
 
